@@ -1,0 +1,11 @@
+@import "commont";
+
+body {
+   h1 {
+   	display: flex;
+   	flex: 1 0 0;
+	color: $color;
+	font-size: $font;
+	background-color: $bg;
+   }
+}
